@@ -1,0 +1,12 @@
+data/
+*/data/
+*.zip
+_site/
+.sass-cache/
+.jekyll-metadata
+.ipynb_checkpoints/
+*.pyc
+*.h5
+ai_aliases.sh
+fast-ai-commands.txt
+fast-ai-remove.sh
